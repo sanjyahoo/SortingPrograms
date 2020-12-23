@@ -15,6 +15,7 @@ public class FindElements {
 				if (j == m) 
 					System.out.print(a[i] + " "); 
 				System.out.println("Coomit 1");
+				System.out.println("Coomit 2");
 			
 		} 
 		} 
